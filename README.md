@@ -41,4 +41,4 @@ It contains 9 modules on the fundamentals of C++.
 
 📃 You will find the subjects of each module at his root.
 
-📆 Submitted in march 2021
+📆 Submitted in august 2021
